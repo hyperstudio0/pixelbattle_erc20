@@ -1,0 +1,5 @@
+pixelbattle_erc20/.idea
+pixelbattle_erc20/node_modules
+.env
+package-lock.json
+pixelbattle_erc20.iml
